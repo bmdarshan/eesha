@@ -1,1 +1,1 @@
-worker:python api/app.py
+worker:py api/app.py
