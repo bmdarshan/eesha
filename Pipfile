@@ -1,5 +1,6 @@
 [packages]
 
+gunicorn = "*"
 flask = "*"
 flask_restful = "*"
 pymongo = "*"
